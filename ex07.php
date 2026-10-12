@@ -1,5 +1,5 @@
 <?php
-$nombre = 7;
+$nombre = 9;
 echo "<h3>Table de multiplication de $nombre</h3>";
 for ($i = 1; $i <= 10; $i++) {
     echo "$nombre x $i = " . ($nombre * $i) . "<br>";

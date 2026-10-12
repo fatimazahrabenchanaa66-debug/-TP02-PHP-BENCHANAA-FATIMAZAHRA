@@ -7,6 +7,8 @@
 <body>
    
     <?php
+    //un commentaire sur une lignes
+
     
     /*
    Ceci est un commentaire
