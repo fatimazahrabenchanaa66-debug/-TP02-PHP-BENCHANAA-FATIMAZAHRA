@@ -21,7 +21,7 @@ error_reporting(E_ALL);?>
         <li><a href="ex06.php">Exercice 6</a></li>
         <li><a href="ex07.php">Exercice 7</a></li>
         <li><a href="ex08.php">Exercice 8</a></li>
-        <li><a href="ex09.php">Exercice 9</a></li>S
+        <li><a href="ex09.php">Exercice 9</a></li>
         <li><a href="ex10_get.html">Exercice 10 (GET)</a></li>
         <li><a href="ex10_post.html">Exercice 10 (POST)</a></li>
     </ul>
